@@ -27,38 +27,6 @@ Este repositório contém todo o desenvolvimento teórico, computacional e exper
 - Scripts para geração de gráficos de validação e análise  
 - Relatório final e vídeo de apresentação  
 
----
-
-## Estrutura do repositório
-Cookbot-Robotic-Control/
-├── README.md
-├── requirements.txt
-├── .gitignore
-│
-├── src/
-│   ├── parametros_cookbot.py
-│   ├── traj_cookbot.py
-│   ├── plot_traj_real.py
-│   ├── Simulacao_palito.py
-│   ├── Trajetória com controle.py
-│   ├── plot_torques.py
-│   ├── plot_traj_des.py
-│   └── (outros scripts)
-│
-├── data/
-│   ├── trajetoria_q_sim.npy
-│   ├── tempos_sim.npy
-│
-├── relatorio/
-│   ├── RelatorioFinal.pdf
-│   ├── Entrega1.ipynb
-│
-├── figuras/
-│   └── (gráficos gerados)
-│
-└── videos/
-    └── apresentacao.mp4
-
 
 
 ---
