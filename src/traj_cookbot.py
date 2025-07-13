@@ -8,7 +8,7 @@ from roboticstoolbox import mstraj
 frit = np.deg2rad(8)
 frit_desp = np.deg2rad(280)
 
-#TRAJETÓRIAS
+#TRAJETÓRIAS - análises do end-effector
 #batatas serão despejadas na bandeja
 POS0 = cookbot.fkine([0, 0, frit])
 #posição 1: batatas acima da fritadeira
