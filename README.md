@@ -36,28 +36,29 @@ Cookbot-Robotic-Control/
 ├── .gitignore
 │
 ├── src/
-│ ├── parametros_cookbot.py
-│ ├── traj_cookbot.py
-│ ├── plot_traj_real.py
-│ ├── Simulacao_palito.py
-│ ├── Trajetória com controle.py
-│ ├── plot_torques.py
-│ ├── plot_traj_des.py
-│ └── (outros scripts)
+│   ├── parametros_cookbot.py
+│   ├── traj_cookbot.py
+│   ├── plot_traj_real.py
+│   ├── Simulacao_palito.py
+│   ├── Trajetória com controle.py
+│   ├── plot_torques.py
+│   ├── plot_traj_des.py
+│   └── (outros scripts)
 │
 ├── data/
-│ ├── trajetoria_q_sim.npy
-│ ├── tempos_sim.npy
+│   ├── trajetoria_q_sim.npy
+│   ├── tempos_sim.npy
 │
 ├── relatorio/
-│ ├── RelatorioFinal.pdf
-│ ├── Entrega1.ipynb
+│   ├── RelatorioFinal.pdf
+│   ├── Entrega1.ipynb
 │
 ├── figuras/
-│ └── (gráficos gerados)
+│   └── (gráficos gerados)
 │
 └── videos/
-└── apresentacao.mp4
+    └── apresentacao.mp4
+
 
 
 ---
